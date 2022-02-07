@@ -1,0 +1,1 @@
+web: gunicorn mamsproject.wsgi --log-file -
